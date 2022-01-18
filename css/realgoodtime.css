@@ -1,0 +1,175 @@
+
+
+body {
+    background:
+        linear-gradient(
+            rgba(9, 23, 61, 0.95), 
+            rgba(65, 16, 58, 0.95), 
+            rgba(16, 51, 13, 0.95), 
+            rgba(56, 18, 43, 0.95)
+        ),
+        url("/img/heman-bg.jpg") center fixed 
+}
+
+.modal-backdrop.in {
+    opacity: 1 !important;
+    background-color: black !important;
+    background: 
+        linear-gradient(
+            rgba(0, 29, 107, 0.9), 
+            rgba(158, 30, 139, 0.9), 
+            rgba(2, 138, 47, 0.9)
+        ) !important;
+}
+
+.modal-header {
+    height: 75px;
+    text-align: center;
+    background: 
+        linear-gradient(
+            rgb(91, 135, 255),
+            rgb(243, 47, 214)
+        ) !important;
+}
+
+.modal-header h2 {
+    margin-top: 15px !important;
+    color: rgb(114, 255, 95) !important;
+}
+
+.modal-body {
+    height: 190px;
+    text-align: center;
+    color: rgb(56, 248, 255) !important;
+    font-size: 1.5em;
+    background: 
+        linear-gradient(
+            rgb(243, 47, 214), 
+            rgb(28, 194, 84)
+        ) !important;
+}
+
+.modal-body p {
+    margin-top: 20px !important;
+}
+
+.modal-footer {
+    height: 75px;
+    background: 
+        linear-gradient(
+            rgb(28, 194, 84),
+            rgb(203, 224, 83)
+        ) !important;
+    text-align: center;
+}
+
+.modal-footer button {
+    margin-top: 15px !important;
+}
+
+#modal_yes, #modal_no, .nav-pills a {
+    transition: 0.2s;
+}
+#modal_yes:hover, #modal_no:hover {
+    color: hotpink;
+}
+
+.page-header {
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+
+.navbar a {
+    transition: 0.2s;
+}
+.navbar a:hover {
+    color: hotpink !important;
+    background: linear-gradient(rgba(56, 18, 43, 0.9));
+}
+
+.btn-info {
+    color: black;
+}
+.btn-info:hover, .btn-warning:hover, .btn-default:hover {
+    color: hotpink;
+}
+.btn-info:focus {
+    color: hotpink;
+}
+
+#real_stop, #moving_stop {
+    position: relative;
+}
+
+#fake_stop {
+    position: relative;
+    width: 150px;
+    right: 75px;
+}
+
+#new_travolta {
+    position: relative;
+    margin-top: -30px;
+    margin-bottom: -50px;
+}
+
+.alert-info {
+    position: absolute;
+    width: 311px;
+}
+
+.ranranruu_video {
+    pointer-events: none;
+}
+
+#bottom_marquee {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#travolta_bottom {
+    margin-top: 2000px;
+    margin-bottom: 500px;
+}
+
+.mushroom {
+    cursor: url("/img/sword.png"), pointer !important;
+    position:relative;
+    z-index: 100;
+}
+
+#ICT {
+    text-align: center;
+}
+
+.ict_error {
+    margin-left: 25px;
+}
+
+#jaksaa {
+    max-width: 350px;
+}
+
+#mchammer {
+    max-width: 185px;
+}
+
+#astley_upper, #astley_lower, #travolta_bottom, #allstar, .squidward, .anime_spin,
+#bottom_marquee, #mchammer, .amogus, #feedback_animegirl, #ICT, .ict_error,
+#new_travolta, .mushroom_wait, #ie_logo, #ns_logo, #heuristics, #jaksaa,
+#no_frames, #notepad, #real_good_time_title, a, button {
+    cursor: pointer !important;
+}
+
+.zoom, .zoom_less, .zoom_more {
+    transition: transform 0.2s;
+}
+.zoom:hover {
+    transform: scale(1.05);
+}
+.zoom_less:hover {
+    transform: scale(1.02);
+}
+.zoom_more:hover {
+    transform: scale(1.2);
+}
