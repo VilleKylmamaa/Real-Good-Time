@@ -28,7 +28,7 @@ The project is named "Real Good Time" because it's a stupid and sarcastic title,
 
 The website is implemented using HTML, CSS, JavaScript, jQuery and Bootstrap. It's hosted for free on Google's Firebase platform.
 
-Hopefully it's evidently clear that this isn't a very serious project. It's a playful and humorous project. Making it was certainly fun. Should anyone hate it, they have my permission to hate it as much as they desire to.
+Hopefully it's evidently clear that this isn't a very serious project - it's a playful and humorous project. Making it was certainly fun. Should anyone hate it, they have my permission to hate it as much as they desire to.
 
 
 <br>
