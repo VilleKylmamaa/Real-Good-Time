@@ -1,6 +1,6 @@
 ![Top banner](https://raw.githubusercontent.com/VilleKylmamaa/Real-Good-Time/main/github-images/banner1.jpg)
 
-# Real Good Time
+# Awful Everything Website - Real Good Time
 
 For an authentic first-time experience, test the prototype by following the link below before reading the rest of the documentation. Sound should be on. Preferably use one of the recommended browsers.
 
@@ -34,7 +34,7 @@ Hopefully it's evidently clear that this isn't a very serious project - it's a p
 <br>
 
 
-## Content - Awful Everything
+## Content
 
 What is on this website? Well, a lot:
 
